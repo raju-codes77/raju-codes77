@@ -1,4 +1,4 @@
-##Hello, I'm Yajuddin Raju
+👋 Hello, I'm Yajuddin Raju
 💻 Frontend Developer | React Enthusiast
 
 Hi! I'm Yajuddin Raju, a passionate developer who loves building modern and interactive web applications. I enjoy working with clean UI, smooth user experiences, and scalable code.
