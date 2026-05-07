@@ -5,10 +5,10 @@
 </div>
 
 ## 👨‍💻 About Me
-I am a **Frontend Developer** dedicated to crafting seamless user experiences with **React** and **JavaScript**. I specialize in building responsive, scalable web applications with clean, maintainable code.
+I am a **Frontend Developer** dedicated to crafting seamless user experiences with **React** **NextJs** and **JavaScript**. I specialize in building responsive, scalable web applications with clean, maintainable code.
 
 *   🔭 **Currently working on:** Advanced UI components & Performance optimization.
-*   🌱 **Learning:** Next.js and Backend integration to become Full-stack.
+*   🌱 **Learning:** Backend integration to become Full-stack.
 *   💬 **Ask me about:** React, Tailwind CSS, and UX Design.
 *   📫 **How to reach me:** [Email Me](mailto:yajuddinraju1@gmail.com)
 
