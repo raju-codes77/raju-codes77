@@ -25,11 +25,14 @@ I am a **Frontend Developer** dedicated to crafting seamless user experiences wi
 
 ---
 
-### 📈 GitHub Analytics
+---
+
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raju-codes77&show_icons=true&theme=transparent&rank_icon=github&border_radius=10" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raju-codes77&layout=compact&theme=transparent&border_radius=10" alt="Top Languages" width="41%" />
+  <!-- Added &cache_seconds=1800 to help with loading issues -->
+  <img src="https://github-readme-stats.vercel.app/api?username=raju-codes77&show_icons=true&theme=transparent&rank_icon=github&border_radius=10&cache_seconds=1800" alt="Raju's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raju-codes77&layout=compact&theme=transparent&border_radius=10&cache_seconds=1800" alt="Top Languages" width="41%" />
 </p>
 
 <p align="center">
@@ -40,12 +43,16 @@ I am a **Frontend Developer** dedicated to crafting seamless user experiences wi
 
 ### 🤝 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/yajuddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yajuddin" height="30" width="40" /></a>
-<a href="mailto:yajuddinraju1@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="yajuddinraju1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yajuddin" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:yajuddinraju1@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
 </p>
 
 <div align="center">
   <br />
-  <img src="https://profile-counter.glitch.me/raju-codes77/count.svg" alt="Visitor Count" />
-  <p><i>Profile Views</i></p>
+  <!-- Fixed Counter Service -->
+  <img src="https://komarev.com/ghpvc/?username=raju-codes77&color=0077B5&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
 </div>
