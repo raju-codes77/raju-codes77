@@ -30,15 +30,17 @@ I am a **Frontend Developer** dedicated to crafting seamless user experiences wi
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <!-- Added &cache_seconds=1800 to help with loading issues -->
-  <img src="https://github-readme-stats.vercel.app/api?username=raju-codes77&show_icons=true&theme=transparent&rank_icon=github&border_radius=10&cache_seconds=1800" alt="Raju's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raju-codes77&layout=compact&theme=transparent&border_radius=10&cache_seconds=1800" alt="Top Languages" width="41%" />
+  <!-- Main Stats Card - Switched to a high-uptime mirror -->
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=raju-codes77&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&count_private=true" alt="Raju's GitHub Stats" width="48%" />
+  
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=raju-codes77&layout=compact&theme=tokyonight&border_radius=10&count_private=true" alt="Top Languages" width="41%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raju-codes77&theme=transparent&border_radius=10" alt="GitHub Streak" />
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raju-codes77&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
 </p>
-
 ---
 
 ### 🤝 Connect with Me
