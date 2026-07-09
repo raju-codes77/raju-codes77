@@ -5,7 +5,7 @@
 </div>
 
 ## 👨‍💻 About Me
-I am a **Frontend Developer** dedicated to crafting seamless user experiences with **React** **NextJs** and **JavaScript**. I specialize in building responsive, scalable web applications with clean, maintainable code.
+I am a **Fullstack Developer** dedicated to crafting seamless user experiences and robust backend systems using **React, Next.js, Node.js, and JavaScript.** I specialize in building responsive, scalable web applications — from intuitive frontends to efficient, well-structured APIs and databases — with clean, maintainable code.
 
 *   🔭 **Currently working on:** Advanced UI components & Performance optimization.
 *   🌱 **Learning:** Backend integration to become Full-stack.
